@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>xchange-binance</artifactId>
+    <artifactId>xchange-binance-yv</artifactId>
 
     <dependencies>
         <dependency>
@@ -22,8 +22,8 @@
         </dependency>
         <dependency>
             <groupId>org.knowm.xchange</groupId>
-            <artifactId>xchange-binance</artifactId>
-            <version>${xchange.version}</version>
+            <artifactId>xchange-binance-yv</artifactId>
+            <version>4.3.8-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
