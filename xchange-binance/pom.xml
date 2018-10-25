@@ -22,8 +22,8 @@
         </dependency>
         <dependency>
             <groupId>org.knowm.xchange</groupId>
-            <artifactId>xchange-binance-yv</artifactId>
-            <version>4.3.8-SNAPSHOT</version>
+            <artifactId>xchange-binance</artifactId>
+            <version>4.3.11</version>
         </dependency>
     </dependencies>
 </project>
